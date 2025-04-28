@@ -21,4 +21,11 @@
     font-optical-sizing: auto;
     /* font-weight: <weight>; */
     font-style: normal;
-  }
+}
+
+/* Header */
+
+header.span.a {
+    display: inline;
+    font-size: 15px;
+}
