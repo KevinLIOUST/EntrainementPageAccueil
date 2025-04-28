@@ -43,6 +43,12 @@ span {
 a {
     background-color: green;
     color: white;
-    padding: 1.50rem;
+    padding: 0.8rem;
     text-decoration: none;
+}
+
+/* Main */
+
+main {
+
 }
