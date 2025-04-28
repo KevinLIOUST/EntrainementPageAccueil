@@ -29,14 +29,11 @@ header {
     font-size: 30px;
 }
 
-span {
+img {
     vertical-align: middle;
 }
 
-.spanBarre {
-    margin-left: 30px;
-}
-
-a {
-    margin-left: 30px;
+span {
+    vertical-align: middle;
+    margin-left: 10px;
 }
