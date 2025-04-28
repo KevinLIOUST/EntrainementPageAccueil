@@ -1,0 +1,20 @@
+.comic-relief-regular {
+    font-family: "Comic Relief", system-ui;
+    /* font-weight: 400; */
+    font-style: normal;
+}
+  
+.comic-relief-bold {
+    font-family: "Comic Relief", system-ui;
+    /* font-weight: 700; */
+    font-style: normal;
+}
+
+/*  <weight>: Use a value from 200 to 800
+    <uniquifier>: Use a unique and descriptive class name */
+.manrope {
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>; */
+    font-style: normal;
+  }
