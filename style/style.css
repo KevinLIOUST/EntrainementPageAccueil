@@ -43,8 +43,11 @@ span {
 a {
     background-color: green;
     color: white;
-    padding: 0.8rem;
+    padding: 0.6rem;
     text-decoration: none;
+    border-radius: 8px;
+    box-shadow: 10px 5px 5px green;
+    border: 3px solid rgb(165, 237, 169);
 }
 
 /* Main */
@@ -52,7 +55,7 @@ a {
 main {
     width: 100%;
     height: 80vh;
-    background-color: aqua;
+    background-color: rgb(86, 190, 119);
 }
 
 h1 {
@@ -67,4 +70,5 @@ h2 {
 
 .callToActionButton {
     margin-left: 1.5rem;
+    box-shadow: 10px 5px 5px green;
 }
