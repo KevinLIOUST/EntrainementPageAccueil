@@ -50,5 +50,21 @@ a {
 /* Main */
 
 main {
+    width: 100%;
+    height: 80vh;
+    background-color: aqua;
+}
 
+h1 {
+    padding-top: 5rem;
+    margin-left: 1.5rem;
+}
+
+h2 {
+    margin-bottom: 8rem;
+    margin-left: 1.5rem;
+}
+
+.callToActionButton {
+    margin-left: 1.5rem;
 }
