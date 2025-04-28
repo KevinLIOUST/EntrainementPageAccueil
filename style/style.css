@@ -26,7 +26,9 @@
 /* Header */
 
 header {
-    font-size: 30px;
+    font-size: 1.80rem;
+    background-color: cadetblue;
+    padding: 1.80rem;
 }
 
 img {
@@ -35,5 +37,12 @@ img {
 
 span {
     vertical-align: middle;
-    margin-left: 10px;
+    margin-left: 3rem;
+}
+
+a {
+    background-color: green;
+    color: white;
+    padding: 1.50rem;
+    text-decoration: none;
 }
