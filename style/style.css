@@ -71,4 +71,6 @@ h2 {
 .callToActionButton {
     margin-left: 1.5rem;
     box-shadow: 10px 5px 5px green;
+    padding: 2rem;
+    font-size: x-large;
 }
